@@ -1,0 +1,32 @@
+.pragraph_text{
+    color: gray;
+}
+.buy_now_button{
+    background-color: black;
+    color:white ;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 10px;
+    cursor: pointer;
+}
+.background_image{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+}
+.side_backgroundF{
+    background-image: url();
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 5px lightgray;
+    border-radius: 18px;
+}
+
+
+
