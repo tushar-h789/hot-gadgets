@@ -24,8 +24,24 @@
 }
 .card{
     border: none;
-    box-shadow: 5px 5px 5px lightgray;
-    border-radius: 18px;
+    
+}
+
+.see_all_area{
+    padding: 100px 0px;
+    
+}
+.smartphone_color{
+    color: orange;
+    
+}
+.price_center{
+    text-align: center;
+}
+.Categories{
+    text-align: center;
+    
+    padding: 100px 0 50px ;
 }
 
 
